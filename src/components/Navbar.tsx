@@ -15,7 +15,7 @@ export default function Navbar() {
             <Link className="flex-shrink-0 flex items-center" href="/">
               <Image
                 src="https://postimg.cc/568mMgQs"
-                alt="ZenMatrix Logo"
+                alt="ZenMatrix Logos"
                 width={140}
                 height={32}
                 className="h-8 w-auto"
