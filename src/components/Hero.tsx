@@ -25,7 +25,7 @@ export default function Hero() {
           </div>
           <div className="flex justify-center">
             <Image
-              src="https://ext.same-assets.com/1148437217/2458509717.png"
+              src="https://freeimage.host/i/zen-v2.3Y3TY21"
               alt="ZenMatrix Logo"
               width={300}
               height={300}
