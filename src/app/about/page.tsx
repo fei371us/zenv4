@@ -31,7 +31,7 @@ export default function AboutPage() {
                   ZenMatrix began with a simple mission: to bring harmony to the often chaotic world of technology solutions. We recognized that many businesses were struggling to navigate the rapidly evolving digital landscape, often implementing technologies that didn't align with their core business objectives.
                 </p>
                 <p className="text-muted-foreground text-lg mb-6">
-                  Our founders combined their extensive experience in software development, cloud computing, and business strategy to create a company that focuses on balanced technology solutions—ones that drive business growth while maintaining operational stability.
+                  Our team combined their extensive experience in software development, cloud computing, and business strategy to create a company that focuses on balanced technology solutions—ones that drive business growth while maintaining operational stability.
                 </p>
                 <p className="text-muted-foreground text-lg">
                   Today, ZenMatrix has grown into a trusted technology partner for businesses across various industries, from startups to enterprises. Our team has expanded, but our core philosophy remains the same: we believe in technology that works in harmony with your business goals.
