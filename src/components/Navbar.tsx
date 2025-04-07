@@ -14,7 +14,7 @@ export default function Navbar() {
           <div className="flex items-center">
             <Link className="flex-shrink-0 flex items-center" href="/">
               <Image
-                src="https://demo-source.imgix.net/scooter.jpg"
+                src="https://zenmatrix-549810950.imgix.net/Zen_v2.png"
                 alt="ZenMatrix Logos"
                 width={140}
                 height={32}
