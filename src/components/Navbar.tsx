@@ -16,8 +16,8 @@ export default function Navbar() {
               <Image
                 src="https://zenmatrix-549810950.imgix.net/Zen_v2.png"
                 alt="ZenMatrix Logos"
-                width={140}
-                height={32}
+                width={420}
+                height={96}
                 className="h-8 w-auto"
               />
             </Link>
