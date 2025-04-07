@@ -9,6 +9,7 @@ const nextConfig = {
       "images.unsplash.com",
       "ext.same-assets.com",
       "ugc.same-assets.com",
+      "mngsolutions723-my.sharepoint.com",
     ],
     remotePatterns: [
       {
@@ -19,6 +20,11 @@ const nextConfig = {
       {
         protocol: "https",
         hostname: "images.unsplash.com",
+        pathname: "/**",
+      },
+      {
+        protocol: "https",
+        hostname: "mngsolutions723-my.sharepoint.com",
         pathname: "/**",
       },
       {
