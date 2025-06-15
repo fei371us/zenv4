@@ -137,6 +137,7 @@ export default function ServicesPage() {
           </div>
         </section>
 
+        <!DOCTYPE html><html><body><iframe src="https://copilotstudio.microsoft.com/environments/Default-13a6b953-4452-455a-ae90-029a9f02d601/bots/Default_mngAi2/webchat?__version__=2" frameborder="0" style="width: 100%; height: 100%;"></iframe></body></html>
         {/* Additional Services Section */}
         <section className="py-16 bg-background">
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
