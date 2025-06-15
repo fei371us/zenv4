@@ -110,7 +110,6 @@ export default function Navbar() {
             >
               About
             </Link>
-            <Link
 
             <Link
               className="font-montserrat font-medium text-foreground hover:text-primary transition-colors block px-3 py-2 rounded-md"
