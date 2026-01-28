@@ -26,7 +26,7 @@ export default function AboutPage() {
           <div className="container mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
               <div>
-                <h2 className="font-montserrat font-bold text-3xl mb-6">Our Story</h2>
+                <h2 className="font-montserrat font-bold text-3xl mb-6">Our a Story</h2>
                 <p className="text-muted-foreground text-lg mb-6">
                   ZenMatrix began with a simple mission: to bring harmony to the often chaotic world of technology solutions. We recognized that many businesses were struggling to navigate the rapidly evolving digital landscape, often implementing technologies that didn't align with their core business objectives.
                 </p>
