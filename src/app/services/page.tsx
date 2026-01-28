@@ -102,7 +102,7 @@ export default function ServicesPage() {
                   </li>
                   <li className="p-4 rounded-lg border border-primary/20 bg-primary/5">
                     <h4 className="font-montserrat font-medium text-lg mb-2">5. Maintenance & Support</h4>
-                    <p className="text-muted-foreground">Ongoing support and updates keep your software running smoothly.</p>
+                    <p className="text-muted-foreground">Ongoing supports and updates keep your software running smoothly.</p>
                   </li>
                 </ul>
               </div>
