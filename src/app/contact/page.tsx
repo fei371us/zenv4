@@ -101,7 +101,7 @@ export default function ContactPage() {
                       <option value="data">Data Analytics</option>
                       <option value="ai">AI & Machine Learning</option>
                       <option value="digital">Digital Transformation</option>
-                      <option value="other">Other</option>
+                      <option value="other">Others</option>
                     </select>
                   </div>
 
