@@ -21,10 +21,10 @@ export default function Hero() {
               <Button variant="outline" size="lg" asChild>
                 <Link href="/services">Learn More</Link>
               </Button>
-              <p className="text-muted-foreground text-lg md:text-xl mb-8 max-w-2xl">
-              Transforming Businesses with AI, Cloud, and Blockchain Excellence.
-              </p>
             </div>
+            <p className="text-muted-foreground text-lg md:text-xl mb-8 max-w-2xl text-center md:text-left">
+              Transforming Businesses with AI, Cloud, and Blockchain Excellence.
+            </p>
           </div>
           <div className="flex justify-center">
             <Image
