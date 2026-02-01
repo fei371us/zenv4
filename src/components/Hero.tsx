@@ -15,6 +15,8 @@ export default function Hero() {
               ZenMatrix provides harmony and balance in technological solutions, helping businesses thrive in the digital landscape.
               <br />
               <br />
+              <br />
+              <br />
               Transforming Businesses with AI, Cloud, and Blockchain Excellence.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
