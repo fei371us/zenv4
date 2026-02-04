@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 46, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/fei/Desktop/zenmatrix2026/src/app/api/news/route.ts"],"sourcesContent":["export const dynamic = \"force-dynamic\";\r\nexport const revalidate = 0;\r\nimport { NextResponse } from \"next/server\";\r\n\r\nconst approvedNews: Array<{\r\n  id: number;\r\n  title: string;\r\n  summary: string;\r\n  link?: string;\r\n}> = [\r\n  // TODO: replace with real approved items from backend once available\r\n];\r\n\r\nexport function GET() {\r\n  return NextResponse.json(approvedNews);\r\n}"],"names":[],"mappings":";;;;;;;;AAEA;AAFO,MAAM,UAAU;AAChB,MAAM,aAAa;;AAG1B,MAAM,eAKD,EAEJ;AAEM,SAAS;IACd,OAAO,iKAAY,CAAC,IAAI,CAAC;AAC3B"}}]
+}

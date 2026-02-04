@@ -14,9 +14,7 @@ export default function Hero() {
             <p className="text-muted-foreground text-lg md:text-xl mb-8 max-w-2xl">
               ZenMatrix provides harmony and balance in technological solutions, helping businesses thrive in the digital landscape.
               <br />
-              <br />
-              <br />
-              <br />
+
               Transforming Businesses with AI, Cloud, and Blockchain Excellence.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center md:justify-start">
@@ -32,8 +30,8 @@ export default function Hero() {
             <Image
               src="https://zenmatrix-549810950.imgix.net/Zen_v2.png"
               alt="ZenMatrix Logo"
-              width={300}
-              height={300}
+              width={150}
+              height={150}
               className="w-auto h-auto"
             />
           </div>

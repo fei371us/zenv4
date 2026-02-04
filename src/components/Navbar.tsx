@@ -37,6 +37,12 @@ export default function Navbar() {
             </Link>
             <Link
               className="font-montserrat font-medium text-foreground hover:text-primary transition-colors px-3 py-2 rounded-md"
+              href="/portfolio"
+            >
+              Portfolio
+            </Link>
+            <Link
+              className="font-montserrat font-medium text-foreground hover:text-primary transition-colors px-3 py-2 rounded-md"
               href="/about"
             >
               About
@@ -46,6 +52,12 @@ export default function Navbar() {
               href="/contact"
             >
               Contact
+            </Link>
+            <Link
+              className="font-montserrat font-medium text-foreground hover:text-primary transition-colors px-3 py-2 rounded-md"
+              href="/admin/news"
+            >
+              Admin
             </Link>
           </div>
           <div className="flex items-center md:hidden">
@@ -105,6 +117,13 @@ export default function Navbar() {
             </Link>
             <Link
               className="font-montserrat font-medium text-foreground hover:text-primary transition-colors block px-3 py-2 rounded-md"
+              href="/portfolio"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Portfolio
+            </Link>
+            <Link
+              className="font-montserrat font-medium text-foreground hover:text-primary transition-colors block px-3 py-2 rounded-md"
               href="/about"
               onClick={() => setIsMenuOpen(false)}
             >
@@ -117,6 +136,13 @@ export default function Navbar() {
               onClick={() => setIsMenuOpen(false)}
             >
               Contact
+            </Link>
+            <Link
+              className="font-montserrat font-medium text-foreground hover:text-primary transition-colors block px-3 py-2 rounded-md"
+              href="/admin/news"
+              onClick={() => setIsMenuOpen(false)}
+            >
+              Admin
             </Link>
           </div>
         </div>

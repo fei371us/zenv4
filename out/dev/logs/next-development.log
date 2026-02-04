@@ -1,0 +1,82 @@
+[00:00:01.101] Server  LOG     ✓ Ready in 731ms
+[00:00:02.917] Server  ERROR   ⨯ Error: export const dynamic = "force-static"/export const revalidate not configured on route "/api/news" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:00:03.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:04.178] Browser ERROR   Error fetching news: {}
+[00:00:05.463] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:19.327] Server  ERROR   ⨯ Error: export const dynamic = "force-static"/export const revalidate not configured on route "/api/news" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:00:19.498] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:19.498] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:19.498] Browser ERROR   Error fetching news: {}
+[00:00:21.413] Server  ERROR   ⨯ Error: export const dynamic = "force-static"/export const revalidate not configured on route "/api/news" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:00:21.595] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:21.595] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:21.595] Browser ERROR   Error fetching news: {}
+[00:00:21.892] Server  ERROR   ⨯ Error: export const dynamic = "force-static"/export const revalidate not configured on route "/api/news" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:00:22.086] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:22.086] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:00:22.086] Browser ERROR   Error fetching news: {}
+[00:01:04.937] Server  ERROR   ⨯ Error: export const dynamic = "force-static"/export const revalidate not configured on route "/api/news" with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:01:05.100] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:01:05.100] Browser ERROR   Error fetching news: {}
+[00:01:15.193] Server  LOG     ✓ Compiled in 656ms
+[00:02:06.636] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:02:15.463] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:02:15.660] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:02:15.661] Browser ERROR   Error fetching news: {}
+[00:07:45.256] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:07:45.413] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:45.413] Browser ERROR   Error fetching news: {}
+[00:07:50.301] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:07:50.590] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:07:50.896] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:07:51.076] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:51.076] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:51.076] Browser ERROR   Error fetching news: {}
+[00:08:00.925] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:08:01.103] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:01.103] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:08:01.103] Browser ERROR   Error fetching news: {}
+[00:09:30.744] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:09:30.898] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:30.898] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:30.898] Browser ERROR   Error fetching news: {}
+[00:09:35.475] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:09:35.892] Browser ERROR   uncaughtError: Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:09:46.267] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:09:46.664] Browser ERROR   uncaughtError: Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:15:10.582] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:15:10.991] Browser ERROR   uncaughtError: Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:17:43.213] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:17:43.377] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:17:43.377] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:17:43.377] Browser ERROR   Error fetching news: {}
+[00:18:25.129] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:18:25.318] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:18:25.318] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:18:25.318] Browser ERROR   Error fetching news: {}
+[00:19:04.587] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:19:04.613] Server  LOG     ✓ Compiled in 28ms
+[00:19:04.958] Server  ERROR   ⨯ Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:19:05.381] Browser ERROR   uncaughtError: Error: export const dynamic = "force-dynamic" on page "/api/news" cannot be used with "output: export". See more info here: https://nextjs.org/docs/advanced-features/static-html-export
+[00:20:17.676] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:20:17.676] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:13.354] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:36.349] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:40:36.349] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:42:05.568] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:42:05.568] Browser WARN    Image with src "https://zenmatrix-549810950.imgix.net/Zen_v2.png" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:45:05.843] Server  WARN    ⚠ Fast Refresh had to perform a full reload when ./zenmatrix2026/node_modules/next/dist/shared/lib/router/router.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+[00:45:05.863] Server  LOG     ✓ Compiled in 63ms
+[00:45:08.397] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold

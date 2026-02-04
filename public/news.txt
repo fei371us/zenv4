@@ -1,0 +1,8 @@
+[
+  {
+    "id": 1,
+    "title": "OpenClaw Services Offer",
+    "summary": "OpenClaw Install Services (remote), OpenClaw VPS Provider Services, OpenClaw Telegram/WhatsApp Provider",
+    "link": "https://twitter.com/"
+  }
+]
