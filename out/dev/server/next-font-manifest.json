@@ -1,13 +1,19 @@
 {
   "app": {
-    "[project]/zenmatrix2026/src/app/_not-found/page": [
-      "static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2"
+    "[project]/src/app/contact/page": [
+      "static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2"
     ],
-    "[project]/zenmatrix2026/src/app/page": [
-      "static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2"
+    "[project]/src/app/microsoft-licenses/page": [
+      "static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2"
     ],
-    "[project]/zenmatrix2026/src/app/portfolio/page": [
-      "static/media/e8f2fbee2754df70-s.p.9b7a96b4.woff2"
+    "[project]/src/app/page": [
+      "static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2"
+    ],
+    "[project]/src/app/portfolio/page": [
+      "static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2"
+    ],
+    "[project]/src/app/services/page": [
+      "static/media/e8f2fbee2754df70-s.p.0fzkl03jw-sdz.woff2"
     ]
   },
   "appUsingSizeAdjust": true,

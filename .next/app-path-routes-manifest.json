@@ -1,0 +1,11 @@
+{
+  "/_global-error/page": "/_global-error",
+  "/_not-found/page": "/_not-found",
+  "/about/page": "/about",
+  "/admin/news/page": "/admin/news",
+  "/contact/page": "/contact",
+  "/microsoft-licenses/page": "/microsoft-licenses",
+  "/page": "/",
+  "/portfolio/page": "/portfolio",
+  "/services/page": "/services"
+}
