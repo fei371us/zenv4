@@ -16,5 +16,9 @@ export let draftNews: NewsItem[] = [
 ];
 
 export let approvedNews: NewsItem[] = [
-  Approved items moved here after admin approval
+  {
+    id: 1,
+    title: "Save 10% on ALL Corporate Microsoft Licenses – Limited Time!",
+    summary: "More than 3x the average discount—contact us to claim your savings today.",
+  },
 ];

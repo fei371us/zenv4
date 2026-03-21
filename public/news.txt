@@ -4,5 +4,10 @@
     "title": "OpenClaw Services Offer",
     "summary": "OpenClaw Install Services (remote), OpenClaw VPS Provider Services, OpenClaw Telegram/WhatsApp Provider",
     "link": "https://twitter.com/"
+  },
+  {
+    "id": 2,
+    "title": "Save 10% on ALL Corporate Microsoft Licenses – Limited Time!",
+    "summary": "More than 3x the average discount—contact us to claim your savings today."
   }
 ]
