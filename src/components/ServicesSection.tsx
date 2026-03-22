@@ -16,18 +16,6 @@ export default function ServicesSection() {
       icon: "https://ext.same-assets.com/1148437217/2563901416.svg",
     },
     {
-      id: "data",
-      title: "Data Analytics",
-      description: "Transform your data into actionable insights. Our analytics solutions help you make data-driven decisions.",
-      icon: "https://ext.same-assets.com/1148437217/548389142.svg",
-    },
-    {
-      id: "intelligence",
-      title: "Business Intelligence",
-      description: "Gain strategic insights with our BI solutions. Visualize trends, monitor performance, and identify opportunities.",
-      icon: "https://ext.same-assets.com/1148437217/260646423.svg",
-    },
-    {
       id: "ai",
       title: "AI & Machine Learning",
       description: "Harness the power of AI to automate processes, predict outcomes, and enhance customer experiences.",
@@ -38,6 +26,18 @@ export default function ServicesSection() {
       title: "Digital Transformation",
       description: "Strategically integrate digital technology into all areas of your business for fundamental change.",
       icon: "https://ext.same-assets.com/1148437217/2320907649.svg",
+    },
+    {
+      id: "education",
+      title: "Education",
+      description: "Empower your learners with tailored educational platforms and e-learning solutions that enhance engagement and knowledge retention.",
+      icon: "https://ext.same-assets.com/1148437217/1234567890.svg",
+    },
+    {
+      id: "ui-advertising-design",
+      title: "UI/Advertising Design",
+      description: "Craft captivating user interfaces and compelling advertising graphics that drive brand recognition and user engagement.",
+      icon: "https://ext.same-assets.com/1148437217/1234567891.svg",
     }
   ];
 
@@ -53,18 +53,26 @@ export default function ServicesSection() {
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
           {services.map((service) => (
-            <Card key={service.id} className="bg-card rounded-lg p-8 border border-border transition-all hover:shadow-md hover:border-primary/20 flex flex-col h-full">
+            <Card
+              key={service.id}
+              className="bg-card rounded-lg p-8 border border-border transition-all hover:shadow-md hover:border-primary/20 flex flex-col h-full"
+            >
               <CardHeader className="p-0 pb-2 space-y-0">
                 <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-4">
                   <img src={service.icon} alt={service.title} className="w-6 h-6" />
                 </div>
-                <CardTitle className="font-montserrat font-semibold text-xl mb-3">{service.title}</CardTitle>
+                <CardTitle className="font-montserrat font-semibold text-xl mb-3">
+                  {service.title}
+                </CardTitle>
               </CardHeader>
               <CardContent className="p-0 flex-grow">
                 <p className="text-muted-foreground mb-6">{service.description}</p>
               </CardContent>
               <CardFooter className="p-0 pt-2">
-                <Link className="text-primary font-medium inline-flex items-center hover:underline" href={`/services#${service.id}`}>
+                <Link
+                  className="text-primary font-medium inline-flex items-center hover:underline"
+                  href={`/services#${service.id}`}
+                >
                   Learn More
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
