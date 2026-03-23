@@ -7,37 +7,31 @@ export default function ServicesSection() {
       id: "cloud",
       title: "Cloud Solutions",
       description: "Scalable cloud infrastructure that grows with your business. Our cloud solutions provide flexibility and reliability.",
-      icon: "https://ext.same-assets.com/1148437217/3783633550.svg",
     },
     {
       id: "development",
       title: "Software Development",
       description: "Custom software solutions designed to meet your specific business needs and streamline your operations.",
-      icon: "https://ext.same-assets.com/1148437217/2563901416.svg",
     },
     {
       id: "ai",
       title: "AI & Machine Learning",
       description: "Harness the power of AI to automate processes, predict outcomes, and enhance customer experiences.",
-      icon: "https://ext.same-assets.com/1148437217/4061061103.svg",
     },
     {
       id: "transformation",
       title: "Digital Transformation",
       description: "Strategically integrate digital technology into all areas of your business for fundamental change.",
-      icon: "https://ext.same-assets.com/1148437217/2320907649.svg",
     },
     {
       id: "education",
       title: "Education",
       description: "Empower your learners with tailored educational platforms and e-learning solutions that enhance engagement and knowledge retention.",
-      icon: "https://ext.same-assets.com/1148437217/1234567890.svg",
     },
     {
       id: "ui-advertising-design",
       title: "UI/Advertising Design",
       description: "Craft captivating user interfaces and compelling advertising graphics that drive brand recognition and user engagement.",
-      icon: "https://ext.same-assets.com/1148437217/1234567891.svg",
     }
   ];
 
@@ -59,7 +53,7 @@ export default function ServicesSection() {
             >
               <CardHeader className="p-0 pb-2 space-y-0">
                 <div className="w-12 h-12 bg-primary/10 rounded-lg flex items-center justify-center mb-4">
-                  <img src={service.icon} alt={service.title} className="w-6 h-6" />
+
                 </div>
                 <CardTitle className="font-montserrat font-semibold text-xl mb-3">
                   {service.title}
