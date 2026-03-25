@@ -48,7 +48,7 @@ export default function AboutPage() {
                 </div>
                 <div className="absolute inset-0 bg-gradient-to-r from-primary/30 to-primary/5"></div>
                 <Image
-                  src="https://ext.same-assets.com/1148437217/2458509717.png"
+                  src="https://zenmatrix-549810950.imgix.net/Zen_v2.png"
                   alt="ZenMatrix Logo"
                   fill
                   className="object-contain"
